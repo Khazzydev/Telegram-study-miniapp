@@ -1,0 +1,9 @@
+{
+    "title": "1-dars: Salomlashish",
+    "uz": "Salom!",
+    "en": "Hello!",
+    "audio": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "question": "Ingliz tilida 'Salom' qanday aytiladi?",
+    "options": ["Hello!", "Goodbye!", "Thanks!", "Please!"],
+    "correct": "Hello!"
+}
