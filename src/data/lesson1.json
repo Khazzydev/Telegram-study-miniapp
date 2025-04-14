@@ -1,0 +1,12 @@
+{
+  "lessons": [
+    {
+      "title": "Salomlashish",
+      "content": "Hello - Salom"
+    },
+    {
+      "title": "Xayrlashish",
+      "content": "Goodbye - Xayr"
+    }
+  ]
+}
