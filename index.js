@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   
   async function startLesson() {
-    const res = await fetch("src/data/lesson1.json");
+    const res = await fetch("src/data/data/lesson1.json");
     const data = await res.json();
   
     const app = document.getElementById("app");
